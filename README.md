@@ -5,6 +5,11 @@
 A tiny Windows tray app that holds up to 8 pieces of text at once, so you can
 paste any of them instantly without going back to hunt for the original.
 
+<img src="docs/octocopy.png" width="420"
+     alt="The OctoCopy window in dark mode: eight rows, each a Copy button beside
+     a text box holding a snippet, with Add, Remove and Clear All along the top
+     and an Options and Help menu bar.">
+
 ### ⬇ [**Download OctoCopy.exe**](https://github.com/OscarOdh/OctoCopy/raw/main/OctoCopy.exe) · 95 KB
 
 Double-click it and you're running. No installer, no dependencies, nothing to
