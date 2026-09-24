@@ -5,7 +5,7 @@
 A tiny Windows tray app that holds up to 8 pieces of text at once, so you can
 paste any of them instantly without going back to hunt for the original.
 
-### ⬇ [**Download OctoCopy.exe**](https://github.com/OscarOdh/octo/raw/main/OctoCopy.exe) · 95 KB
+### ⬇ [**Download OctoCopy.exe**](https://github.com/OscarOdh/OctoCopy/raw/main/OctoCopy.exe) · 95 KB
 
 Double-click it and you're running. No installer, no dependencies, nothing to
 configure. Works on any up-to-date Windows 10 or 11.
@@ -102,7 +102,7 @@ workload, or MSBuild from the .NET Framework Developer Pack.
 
 ### Just use it
 
-[Download `OctoCopy.exe`](https://github.com/OscarOdh/octo/raw/main/OctoCopy.exe)
+[Download `OctoCopy.exe`](https://github.com/OscarOdh/OctoCopy/raw/main/OctoCopy.exe)
 and double-click it. That's the entire install: no installer, no registry keys,
 no dependencies. Settings go in `%APPDATA%\OctoCopy\`, which is the only thing it
 writes outside itself.
@@ -113,7 +113,7 @@ snippets gone too.
 ### Build from source
 
 ```bash
-git clone https://github.com/OscarOdh/octo.git
+git clone https://github.com/OscarOdh/OctoCopy.git
 ```
 
 Open `App.sln` in Visual Studio and press F5. Or from a Developer Command Prompt:
