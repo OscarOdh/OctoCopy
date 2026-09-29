@@ -328,7 +328,6 @@ saved a position" is distinguishable from "saved position 0,0".
 | `Properties\Resources.resx` | Embedded resources. |
 | `Form1.resx` | The window icon, embedded as base64, which is why `Form1.resx` is 54 KB. |
 | `c.ico` | The source icon file. |
-| `readme.txt` | The original overview this README grew out of. Kept for history. |
 | `OctoCopy.exe` | Prebuilt release binary. What the download link at the top points at. |
 
 ---
